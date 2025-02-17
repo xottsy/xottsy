@@ -1,6 +1,6 @@
+![Мой профиль в стиле Steam](test.png)
 ## Hi there 👋
 ![Python](https://img.shields.io/badge/Python-2%20года-blue)
-![Мой профиль в стиле Steam](test.png)
 <!--
 **xottsy/xottsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
