@@ -1,4 +1,4 @@
-![Мой профиль в стиле Steam](banner.png)
+![Мой профиль в стиле Steam](banne.png)
 ## Hi there 👋
 ![Python](https://img.shields.io/badge/Python-2%20года-blue)
 <!--
